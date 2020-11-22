@@ -1,10 +1,10 @@
-= HyScala General Contributing Guide
+= KotlinHyderabad General Contributing Guide
 
-If you would like to contribute to any of HyScala community projects, follow this document.
+If you would like to contribute to any of KotlinHyderabad community projects, follow this document.
 
 == Prerequisites
 
-* To contribute to any HyScala projects you need a GitHub account.
+* To contribute to any KotlinHyderabad projects you need a GitHub account.
 
 == Git & Github Help
 
